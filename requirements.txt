@@ -1,5 +1,5 @@
-Flask
-python-pptx
+Flask==2.3.3
+openpyxl==3.1.2
 googletrans==4.0.0rc1
-Werkzeug
-gunicorn 
+Werkzeug==2.3.7
+gunicorn==21.2.0 
